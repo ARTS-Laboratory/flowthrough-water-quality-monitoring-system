@@ -1,8 +1,8 @@
-# flow-through-water-quality-system
+# System Design
+Variations of the flow through the water qualty system being developed
 
-## V0.1
+## Keowee
+A flow-through water quality monitoring system that measures PH, TDS, Water Temperature, and ambient Temperature.
 
-1. Measures PH, TDS, Water Temperature, and ambient Temperature.
-2. Saves the Data collected on an SD card.
-3. Using RTC to control and display the sampling time.
-4. Using a relay to control the pumps.
+## Moultrie
+A flow-through water quality monitoring system that integrated nuclear magnetic resonance monitoring as well as measuring PH, TDS, Water Temperature, and ambient Temperature.
