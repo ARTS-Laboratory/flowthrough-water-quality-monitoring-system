@@ -1,12 +1,12 @@
 # Flow Through Water Quality Monitoring System
 
-This system is designed to monitor water quality by measuring conductivity, pH, and temperature, ensuring continuous operation with minimal maintenance. Moreover, versions of this system enable the use of time-domain nuclear magnetic resonance to be performed in situ. It features a robust construction that protects electrical components from environmental damage, supports an adequate flow rate for in situ water sampling, and enables data transmission to a server for analysis.
+This system monitors water quality by measuring conductivity, pH, and temperature, ensuring continuous operation with minimal maintenance. Moreover, versions of this system enable the use of time-domain nuclear magnetic resonance to be performed in situ. It features a robust construction that protects electrical components from environmental damage, supports an adequate flow rate for in situ water sampling, and enables data transmission to a server for analysis.
 
 <p align="center">
 <img src="media/system.JPG" alt="drawing" width="600"/>
 </p>
 <p align="center">
-Figure 1: flow-through water quality monitoring deployed at USC to monitor water quality in the Rocky Bracnh in Columbia South Caorlina
+Figure 1: flow-through water quality monitoring deployed at USC to monitor water quality in the Rocky Branch in Columbia South Carolina.
 </p>
 
 ## System Development
