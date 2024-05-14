@@ -21,10 +21,10 @@ This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 Intern
 
 Cite this as: 
 
-@Misc{ARTSLabFlowWaterQuality,    
+@Misc{ARTSLabFlowthroughWaterQuality,    
   author = {ARTS-Lab},  
   howpublished = {GitHub},  
-  title  = {Flow Through Water Quality Monitoring System},
+  title  = {Flowthrough Water Quality Monitoring System},
   groups = {ARTS-Lab},    
   url    = {https://github.com/ARTS-Laboratory/flow-through-water-quality-monitoring-system},   
 }
