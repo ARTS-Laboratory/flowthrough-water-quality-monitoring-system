@@ -24,7 +24,7 @@ Cite this as:
 @Misc{ARTSLabFlowthroughWaterQuality,    
   author = {ARTS-Lab},  
   howpublished = {GitHub},  
-  title  = {Flowthrough Water Quality Monitoring System},
+  title  = {Flowthrough Water Quality Monitoring System},   
   groups = {ARTS-Lab},    
   url    = {https://github.com/ARTS-Laboratory/flowthrough-water-quality-monitoring-system},   
 }
