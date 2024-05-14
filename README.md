@@ -1,4 +1,4 @@
-# Flow Through Water Quality Monitoring System
+# Flowthrough Water Quality Monitoring System
 
 This system monitors water quality by measuring conductivity, pH, and temperature, ensuring continuous operation with minimal maintenance. Moreover, versions of this system enable the use of time-domain nuclear magnetic resonance to be performed in situ. It features a robust construction that protects electrical components from environmental damage, supports an adequate flow rate for in situ water sampling, and enables data transmission to a server for analysis.
 
