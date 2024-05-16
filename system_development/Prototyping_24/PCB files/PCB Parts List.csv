@@ -1,0 +1,14 @@
+Material Ordering List,,,,
+Part Name,,,,
+Pump Power PCB,Manufacturer Part #,Digikey Part #,Supplier,Code on Schematic
+Barrell Jack,PJ-102B,CP-102B-ND,CUI Devices,N/A
+2 Hole Screw Terminal,282836-2,A98076-ND,TE Connectivity AMP Connectors,N/A
+4 Hole Screw Terminal,282836-4,A98078-ND,TE Connectivity AMP Connectors,N/A
+,,,,
+Datalogging PCB,Manufacturer Part #,Digikey Part #,Supplier,Code on Schematic
+3.3 V Linear Regulator,TC2014-3.3VCTTR,TC2014-3.3VCTTR-ND,Microchip Technology,U1
+Capacitor SMD,CL10B105KP8NNNC,1276-1946-2-ND,Samsung Electro-Mechanics,C1 / C2
+SD Module,B0B5H3421M,ASIN (Amazon),AOICRIE,Micro_SD1
+Real Time Clock Module,B08XQ8TT7Z,ASIN (Amazon),AOICRIE,RT1
+Ultrasonic Sensor,B0C73XZRFQ,ASIN (Amazon),Shutao,US1
+3 Screw Hole Terminal,282836-3,A98077-ND,TE Connectivity AMP Connectors,N/A
