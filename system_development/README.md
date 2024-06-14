@@ -2,7 +2,7 @@
 Variations of the flow through the water quality system are being developed. Named after lakes in South Carolina 
 
 ## Keowee
-A flow-through water quality monitoring system that measures PH, TDS, Water Temperature, and ambient Temperature.
+A flow-through water quality monitoring system that measures PH, TDS, water temperature, and ambient temperature.
 
 ## Moultrie
 A flow-through water quality monitoring system that integrates nuclear magnetic resonance monitoring and measures PH, TDS, water temperature, and ambient temperature.
