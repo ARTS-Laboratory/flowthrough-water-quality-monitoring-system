@@ -1,8 +1,8 @@
 Hello! Hopefully the work I did here was somewhat helpful. If you have questions about any of the physical structure or the Arduino relay system, please feel free to contact me at the following:
 
-bmontryo25@governors.school (will work until the end of may, 2025)
+bmontroy25@governors.school (will work until the end of may, 2025)
 braedenmontroy1@gmail.com (will always work)
-228-382-8652 (quickest answer0
+228-382-8652 (quickest answer)
 
 # Pumps
 The pumps we are using are 12V Grothen pumps. You'll need about 2 amps to run both of them at full power at the same time.
