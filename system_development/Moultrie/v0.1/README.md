@@ -14,7 +14,7 @@ The pumps we are using are 12V Grothen pumps. You'll need about 2 amps to run bo
 I've left a picture of the relay labelled in the same folder as this. It should have everything you need to get this going. Currently, the system works by powering the pumps whenever the D13 on the Arduino is on. As I was leaving, we were working on making this output a switch toggle.
 
 <p align="center">
-<img src="system_development/Moultrie/v0.1/labelled_relay.PNG" alt="drawing" width="600"/>
+<img src="system_development/Moultrie/v0.1/labelled_relay.PNG" alt="drawing" width="988"/>
 </p>
 <p align="center">
 
