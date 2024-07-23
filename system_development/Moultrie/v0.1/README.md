@@ -38,6 +38,8 @@ The sensors themselves can take data and the code HFOIFHIOHFOIWHOW is set up to 
 
 The kit is also connected to a TDS meter from keystudio: https://wiki.keyestudio.com/KS0429_keyestudio_TDS_Meter_V1.0
 
+If you encounter issues they are likely power issues, in which case I would recommend adding a battery and a voltage regulator to the circuit.
+
 <p align="center">
 <img src="labeled_hydroponics_testing_kit.png" alt="drawing" width="960"/>
 </p>
