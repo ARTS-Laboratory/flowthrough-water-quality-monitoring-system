@@ -29,4 +29,9 @@ Cite this as:
   url    = {https://github.com/ARTS-Laboratory/flowthrough-water-quality-monitoring-system},   
 }
 
-
+<p align="center">
+<img src="media/QR-code.png" alt="drawing" width="200"/>
+</p>
+<p align="center">
+QR code for repo.
+</p>
