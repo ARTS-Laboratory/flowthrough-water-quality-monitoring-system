@@ -1,1 +1,0 @@
-# CAD models for the system
