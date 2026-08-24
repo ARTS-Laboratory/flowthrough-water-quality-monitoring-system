@@ -1,0 +1,13 @@
+NMR Frame Dimensions
+
+Bottom Box (Outside to outside)
+393.7 mm Long
+369.575 mm Wide
+250.857 mm Tall
+
+Inner diameter of bottom box bar
+329.575 mm long
+20 mm Wide
+20 mm Tall
+
+210mm tall inner
